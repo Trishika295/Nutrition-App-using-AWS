@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "high_protein",
+      "patterns": ["high protein", "protein food", "muscle"],
+      "response": "Here are some high protein foods:"
+    },
+    {
+      "tag": "low_calorie",
+      "patterns": ["low calorie", "diet food", "light meal"],
+      "response": "Here are some low calorie foods:"
+    },
+    {
+      "tag": "weight_loss",
+      "patterns": ["weight loss", "fat loss", "slim"],
+      "response": "These foods are good for weight loss:"
+    },
+    {
+      "tag": "muscle_gain",
+      "patterns": ["muscle gain", "bulk", "strength"],
+      "response": "Here are foods helpful for muscle gain:"
+    },
+    {
+      "tag": "low_carb",
+      "patterns": ["low carb", "keto", "carb free"],
+      "response": "These are low carb food options:"
+    },
+    {
+      "tag": "low_fat",
+      "patterns": ["low fat", "fat free"],
+      "response": "Here are some low fat foods:"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+food,calories,protein,carbs,fats,food_clean
+Apple,61,0.3,14.8,0.2,apple
+Banana,97,1.1,22.7,0.3,banana
+Orange,50,0.9,11.8,0.1,orange
+Grapes,83,0.9,19.4,0.2,grapes
+Mango,60,0.8,15.0,0.4,mango
+Pear,59,0.4,15.2,0.2,pear
+Strawberry,36,0.7,8.0,0.2,strawberry
+Blueberry,64,0.7,14.6,0.3,blueberry
+Pineapple,50,0.5,13.1,0.1,pineapple
+Papaya,43,0.5,11.0,0.3,papaya
+Watermelon,30,0.6,8.0,0.2,watermelon
+Kiwi,61,1.1,15.0,0.5,kiwi
+Guava,68,2.6,14.3,1.0,guava
+Peach,39,0.9,10.0,0.3,peach
+Plum,46,0.7,11.4,0.3,plum
+Cherry,63,1.1,16.0,0.2,cherry
+Apricot,48,1.4,11.1,0.4,apricot
+Avocado,160,2.0,9.0,15.0,avocado
+Coconut,354,3.3,15.2,33.5,coconut
+Pomegranate,83,1.7,19.0,1.2,pomegranate
+Carrot,41,0.9,10.0,0.2,carrot
+Potato,77,2.0,17.0,0.1,potato
+Sweet Potato,86,1.6,20.1,0.1,sweet potato
+Tomato,18,0.9,3.9,0.2,tomato
+Onion,40,1.1,9.3,0.1,onion
+Garlic,149,6.4,33.1,0.5,garlic
+Cabbage,25,1.3,5.8,0.1,cabbage
+Cauliflower,25,1.9,5.0,0.3,cauliflower
+Broccoli,34,2.8,7.0,0.4,broccoli
+Spinach,23,2.9,3.6,0.4,spinach
+Lettuce,15,1.4,2.9,0.2,lettuce
+Cucumber,16,0.7,3.6,0.1,cucumber
+Zucchini,17,1.2,3.1,0.3,zucchini
+Eggplant,25,1.0,6.0,0.2,eggplant
+Pumpkin,26,1.0,6.5,0.1,pumpkin
+Radish,16,0.7,3.4,0.1,radish
+Beetroot,43,1.6,10.0,0.2,beetroot
+Turnip,28,0.9,6.4,0.1,turnip
+Peas,81,5.4,14.5,0.4,peas
+Corn,96,3.4,21.0,1.5,corn
+Green Beans,31,1.8,7.0,0.2,green beans
+Bell Pepper,20,0.9,4.6,0.2,bell pepper
+Chili Pepper,40,2.0,9.0,0.4,chili pepper
+Okra,33,2.0,7.5,0.2,okra
+Bottle Gourd,14,0.6,3.4,0.1,bottle gourd
+Bitter Gourd,17,1.0,3.7,0.2,bitter gourd
+Ridge Gourd,20,1.2,4.4,0.2,ridge gourd
+Drumstick,37,2.1,8.5,0.2,drumstick
+Brinjal,25,1.0,6.0,0.2,brinjal
+Mushroom,22,3.1,3.3,0.3,mushroom
+Apple Spinach Salad,120,3.0,15.0,5.0,apple spinach salad
+Vegetable Soup,45,2.0,8.0,1.5,vegetable soup
+Mixed Salad,80,2.5,10.0,3.0,mixed salad
+Boiled Vegetables,70,3.0,12.0,1.0,boiled vegetables
+Rice,130,2.7,28.0,0.3,rice
+Wheat,340,13.2,72.0,2.5,wheat
+Oats,389,16.9,66.3,6.9,oats
+Barley,354,12.5,73.5,2.3,barley
+Quinoa,120,4.4,21.3,1.9,quinoa
+Milk,42,3.4,5.0,1.0,milk
+Curd,98,3.5,4.7,4.3,curd
+Paneer,265,18.3,1.2,20.8,paneer
+Egg,155,13.0,1.1,11.0,egg
+Chicken Breast,165,31.0,0.0,3.6,chicken breast
+Fish,206,22.0,0.0,12.0,fish
+Lentils,116,9.0,20.0,0.4,lentils
+Chickpeas,164,9.0,27.0,2.6,chickpeas
+Kidney Beans,127,8.7,22.8,0.5,kidney beans
+Soybean,446,36.5,30.0,20.0,soybean
