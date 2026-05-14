@@ -1,0 +1,22 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - pip install -r requirements.txt
+    build:
+      commands:
+        - streamlit run app.py --server.port 8501 --server.headless true
+  artifacts:
+    baseDirectory: /
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - ~/.cache/pip
+
+backend:
+  phases:
+    build:
+      commands:
+        - amplifyPush --simple
